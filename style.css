@@ -1,0 +1,45 @@
+*
+{
+    background-color: black;
+    color: white;
+}
+
+
+#form
+{
+    width: 100vw;
+    padding: 20px;
+    margin: auto;
+    input
+    {
+        width: 40%;
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 10px;
+    }
+    button
+    {
+        width: 25%;
+        border: 1px solid white;
+        border-radius: 5px;
+        padding: 10px;
+    }
+}
+
+
+table
+{
+    td, th
+    {
+        width: 100vw;
+        padding: 10px;
+        text-align: center;
+        border-bottom: 1px solid white;
+    }
+
+    img
+    {
+        width: 30px;
+    }
+
+}
